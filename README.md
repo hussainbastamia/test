@@ -1,3 +1,3 @@
 ---
-# This is just fot test
+# This is just for test
 ---
